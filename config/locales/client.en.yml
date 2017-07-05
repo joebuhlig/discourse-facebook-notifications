@@ -1,3 +1,6 @@
 en:
   js:
     facebook_notifications:
+      preferences_title: "Facebook Notifications"
+      preference_label: "Display notifications on your Facebook profile?"
+      instructions: "If enabled you will see the notifications from this site duplicated on your Facebook profile."

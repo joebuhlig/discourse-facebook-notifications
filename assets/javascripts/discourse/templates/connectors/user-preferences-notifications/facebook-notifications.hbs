@@ -1,0 +1,7 @@
+{{#if siteSettings.facebook_notifications_enabled}}
+  <div class="control-group">
+    <label class="control-label">{{i18n 'facebook_notifications.preferences_title'}}</label>
+    {{preference-checkbox labelKey="facebook_notifications.preference_label" checked=this.parentView._targetObject.model.custom_fields.user_facebook_notifications_enabled}}
+    <div class='instructions'>{{{i18n 'facebook_notifications.instructions'}}}</div>
+  </div>
+{{/if}}
