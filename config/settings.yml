@@ -1,0 +1,4 @@
+plugins:
+  facebook_notifications_enabled:
+    default: true
+    client: true

@@ -1,0 +1,3 @@
+en:
+  site_settings: 
+    facebook_notifications_enabled: 'Allow users to send Discourse notifications to their Facebook profile.'
